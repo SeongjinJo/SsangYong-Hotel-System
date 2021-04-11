@@ -1,7 +1,11 @@
 # SsangYong-Hotel-System
-쌍용교육센터에서 진행한 1차 콘솔프로젝트입니다.
+### 쌍용교육센터에서 진행한 1차 콘솔프로젝트입니다.
+ 
+<img src="/img/main.png"  width="800">
 
 
+
+## 🎞 Details
 <table>
     <tbody>
             <tr>
